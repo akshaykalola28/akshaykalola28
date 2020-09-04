@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [akshaykalola.tech](akshaykalola.tech)
+- 👨‍💻 All of my projects are available at [http://akshaykalola.tech](akshaykalola.tech)
 
-- 📝 I regulary write articles on [akshaykalola.tech](akshaykalola.tech)
+- 📝 I regulary write articles on [http://akshaykalola.tech](akshaykalola.tech)
 
 - 💬 Ask me about **android, kotlin, node js**
 
