@@ -29,5 +29,5 @@
 <p><a href="https://www.buymeacoffee.com/JNzMsly"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JNzMsly" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykalola28&show_icons=true&theme=dark&locale=en&layout=compact" alt="akshaykalola28" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaykalola28&show_icons=true&theme=dark&locale=en&layout=compact" alt="akshaykalola28" /></p> -->
 
