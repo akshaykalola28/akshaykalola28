@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [akshaykalola.tech](akshaykalola.tech)
-
-- 💬 Ask me about **android, kotlin, node js**
+- 💬 Ask me about **android, kotlin, node js, flutter**
 
 - 📫 How to reach me **akshay.kalola28@gmail.com**
 
