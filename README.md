@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [SkyDialog](https://github.com/akshaykalola28/SkyDialog)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about **android, kotlin, node js, flutter**
+- 💬 Ask me about **Android, Kotlin, Flutter, Node js**
 
 - 📫 How to reach me **akshay.kalola28@gmail.com**
 
