@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Kalola</h1>
 <h3 align="center">A young & passionate mobile app developer from India</h3>
 
-- 🔭 I’m currently working on [SkyDialog](https://github.com/akshaykalola28/SkyDialog)
+<!-- - 🔭 I’m currently working on [SkyDialog](https://github.com/akshaykalola28/SkyDialog) -->
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
